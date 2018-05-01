@@ -1,0 +1,10 @@
+C:\Users\rouse397\Desktop\Zach\Zach\bin\Debug\Zach.exe.config
+C:\Users\rouse397\Desktop\Zach\Zach\bin\Debug\Zach.exe
+C:\Users\rouse397\Desktop\Zach\Zach\bin\Debug\Zach.pdb
+C:\Users\rouse397\Desktop\Zach\Zach\bin\Debug\Zach.xml
+C:\Users\rouse397\Desktop\Zach\Zach\obj\Debug\Your_name_Application.Resources.resources
+C:\Users\rouse397\Desktop\Zach\Zach\obj\Debug\Zach.vbproj.GenerateResource.Cache
+C:\Users\rouse397\Desktop\Zach\Zach\obj\Debug\Zach.exe
+C:\Users\rouse397\Desktop\Zach\Zach\obj\Debug\Zach.xml
+C:\Users\rouse397\Desktop\Zach\Zach\obj\Debug\Zach.pdb
+C:\Users\rouse397\Desktop\Zach\Zach\obj\Debug\Your_name_Application.Notepad.resources

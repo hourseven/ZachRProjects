@@ -1,0 +1,11 @@
+C:\Users\rouse397\AppData\Local\Temporary Projects\ZachRTicTacToe\bin\Debug\ZachRTicTacToe.exe.config
+C:\Users\rouse397\Desktop\ZachRTicTacToe\ZachRTicTacToe\bin\Debug\ZachRTicTacToe.exe.config
+C:\Users\rouse397\Desktop\ZachRTicTacToe\ZachRTicTacToe\obj\Debug\ZachRTicTacToe.Form1.resources
+C:\Users\rouse397\Desktop\ZachRTicTacToe\ZachRTicTacToe\obj\Debug\ZachRTicTacToe.Resources.resources
+C:\Users\rouse397\Desktop\ZachRTicTacToe\ZachRTicTacToe\obj\Debug\ZachRTicTacToe.vbproj.GenerateResource.Cache
+C:\Users\rouse397\Desktop\ZachRTicTacToe\ZachRTicTacToe\bin\Debug\ZachRTicTacToe.exe
+C:\Users\rouse397\Desktop\ZachRTicTacToe\ZachRTicTacToe\bin\Debug\ZachRTicTacToe.pdb
+C:\Users\rouse397\Desktop\ZachRTicTacToe\ZachRTicTacToe\bin\Debug\ZachRTicTacToe.xml
+C:\Users\rouse397\Desktop\ZachRTicTacToe\ZachRTicTacToe\obj\Debug\ZachRTicTacToe.exe
+C:\Users\rouse397\Desktop\ZachRTicTacToe\ZachRTicTacToe\obj\Debug\ZachRTicTacToe.xml
+C:\Users\rouse397\Desktop\ZachRTicTacToe\ZachRTicTacToe\obj\Debug\ZachRTicTacToe.pdb
