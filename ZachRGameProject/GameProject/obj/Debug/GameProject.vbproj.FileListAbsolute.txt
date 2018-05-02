@@ -1,0 +1,14 @@
+C:\Users\rouse397\AppData\Local\Temporary Projects\GameProject\bin\Debug\GameProject.exe.config
+C:\Users\rouse397\AppData\Local\Temporary Projects\GameProject\obj\Debug\GameProject.Form1.resources
+C:\Users\rouse397\AppData\Local\Temporary Projects\GameProject\obj\Debug\GameProject.Resources.resources
+C:\Users\rouse397\AppData\Local\Temporary Projects\GameProject\obj\Debug\GameProject.vbproj.GenerateResource.Cache
+C:\Users\rouse397\Desktop\GameProject\GameProject\bin\Debug\GameProject.exe.config
+C:\Users\rouse397\Desktop\GameProject\GameProject\bin\Debug\GameProject.exe
+C:\Users\rouse397\Desktop\GameProject\GameProject\bin\Debug\GameProject.pdb
+C:\Users\rouse397\Desktop\GameProject\GameProject\bin\Debug\GameProject.xml
+C:\Users\rouse397\Desktop\GameProject\GameProject\obj\Debug\GameProject.Form1.resources
+C:\Users\rouse397\Desktop\GameProject\GameProject\obj\Debug\GameProject.Resources.resources
+C:\Users\rouse397\Desktop\GameProject\GameProject\obj\Debug\GameProject.vbproj.GenerateResource.Cache
+C:\Users\rouse397\Desktop\GameProject\GameProject\obj\Debug\GameProject.exe
+C:\Users\rouse397\Desktop\GameProject\GameProject\obj\Debug\GameProject.xml
+C:\Users\rouse397\Desktop\GameProject\GameProject\obj\Debug\GameProject.pdb
