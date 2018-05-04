@@ -1,0 +1,20 @@
+C:\Users\rouse397\AppData\Local\Temporary Projects\ZachRSlotMachine\bin\Debug\ZachRSlotMachine.exe.config
+C:\Users\rouse397\AppData\Local\Temporary Projects\ZachRSlotMachine\bin\Debug\ZachRSlotMachine.exe
+C:\Users\rouse397\AppData\Local\Temporary Projects\ZachRSlotMachine\bin\Debug\ZachRSlotMachine.pdb
+C:\Users\rouse397\AppData\Local\Temporary Projects\ZachRSlotMachine\bin\Debug\ZachRSlotMachine.xml
+C:\Users\rouse397\AppData\Local\Temporary Projects\ZachRSlotMachine\obj\Debug\ZachRSlotMachine.Form1.resources
+C:\Users\rouse397\AppData\Local\Temporary Projects\ZachRSlotMachine\obj\Debug\ZachRSlotMachine.Resources.resources
+C:\Users\rouse397\AppData\Local\Temporary Projects\ZachRSlotMachine\obj\Debug\ZachRSlotMachine.vbproj.GenerateResource.Cache
+C:\Users\rouse397\AppData\Local\Temporary Projects\ZachRSlotMachine\obj\Debug\ZachRSlotMachine.exe
+C:\Users\rouse397\AppData\Local\Temporary Projects\ZachRSlotMachine\obj\Debug\ZachRSlotMachine.xml
+C:\Users\rouse397\AppData\Local\Temporary Projects\ZachRSlotMachine\obj\Debug\ZachRSlotMachine.pdb
+C:\Users\rouse397\Desktop\ZachRSlotMachine\ZachRSlotMachine\bin\Debug\ZachRSlotMachine.exe.config
+C:\Users\rouse397\Desktop\ZachRSlotMachine\ZachRSlotMachine\obj\Debug\ZachRSlotMachine.exe
+C:\Users\rouse397\Desktop\ZachRSlotMachine\ZachRSlotMachine\obj\Debug\ZachRSlotMachine.xml
+C:\Users\rouse397\Desktop\ZachRSlotMachine\ZachRSlotMachine\obj\Debug\ZachRSlotMachine.pdb
+C:\Users\rouse397\Desktop\ZachRSlotMachine\ZachRSlotMachine\bin\Debug\ZachRSlotMachine.exe
+C:\Users\rouse397\Desktop\ZachRSlotMachine\ZachRSlotMachine\bin\Debug\ZachRSlotMachine.pdb
+C:\Users\rouse397\Desktop\ZachRSlotMachine\ZachRSlotMachine\bin\Debug\ZachRSlotMachine.xml
+C:\Users\rouse397\Desktop\ZachRSlotMachine\ZachRSlotMachine\obj\Debug\ZachRSlotMachine.Form1.resources
+C:\Users\rouse397\Desktop\ZachRSlotMachine\ZachRSlotMachine\obj\Debug\ZachRSlotMachine.Resources.resources
+C:\Users\rouse397\Desktop\ZachRSlotMachine\ZachRSlotMachine\obj\Debug\ZachRSlotMachine.vbproj.GenerateResource.Cache
